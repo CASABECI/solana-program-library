@@ -44,7 +44,7 @@
   ],
   "license": "ISC",
   "dependencies": {
-    "@project-serum/borsh": "^0.2.2",
+    "@project-serum/borsh": "^0.2.5",
     "@solana/buffer-layout": "^4.0.0",
     "@solana/spl-token": "^0.1.8",
     "@solana/web3.js": "^1.30.2",
