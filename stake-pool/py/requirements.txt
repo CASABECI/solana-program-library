@@ -33,3 +33,4 @@ solana==0.18.1
 toml==0.10.2
 typing-extensions==3.10.0.2
 urllib3==1.26.7
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
