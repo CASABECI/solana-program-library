@@ -10,7 +10,7 @@ flake8==4.0.1
 h11==0.12.0
 httpcore==0.13.7
 httpx==0.20.0
-idna==3.3
+idna==3.7
 iniconfig==1.1.1
 mccabe==0.6.1
 mypy==0.910
